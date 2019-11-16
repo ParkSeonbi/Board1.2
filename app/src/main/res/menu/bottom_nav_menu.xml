@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_board"
+        android:title="@string/title_board"
+        android:icon="@drawable/ic_view_list_black_24dp"/>
+
+    <item
+        android:id="@+id/navigation_taking"
+        android:title="@string/title_shooting"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"/>
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:title="@string/title_gallery"
+        android:icon="@drawable/ic_photo_black_24dp"/>
+
+</menu>
